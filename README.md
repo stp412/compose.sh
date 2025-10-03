@@ -2,6 +2,8 @@
 bash script for using lilypad with a terminal editor, like nvim, in a window manager, like bspwm
 
 ### dependencies
+- lilypond
+- an editor like nvim
 - inotify-tools
 - mupdf
 
